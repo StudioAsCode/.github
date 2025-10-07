@@ -1,4 +1,4 @@
-# StudioAsCode
+# 🧩 StudioAsCode
 
 **Operator-driven automation for AWS Security & Compliance**  
 AI-powered DevSecOps for modern cloud infrastructure.
