@@ -17,8 +17,7 @@ Our work combines:
 ---
 
 ### 🌍 Our Mission
-To simplify cloud compliance and empower engineers through automation —  
-turning governance into a seamless, code-driven process.
+To simplify cloud compliance and empower engineers through automation — turning governance into a seamless, code-driven process.
 
 ---
 
