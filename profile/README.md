@@ -1,25 +1,33 @@
-# 🧩 StudioAsCode
+# StudioAsCode
 
-**Operator-driven automation for AWS Security & Compliance**  
-AI-powered DevSecOps for modern cloud infrastructure.
-
----
-
-### 🔐 What We Do
-StudioAsCode builds secure, automated foundations for cloud-native organizations.  
-We specialize in compliance readiness, audit acceleration, and AI-driven cloud security operations.
-
-Our work combines:
-- **AWS Security Architecture** – Infrastructure hardening, compliance baselines, and policy automation  
-- **DevSecOps Enablement** – Operator-first tooling for modern cloud teams  
-- **AI-Augmented Engineering** – Leveraging large language models for documentation, validation, and security workflows  
+**Security-first automation for AWS & Cloud Compliance**  
+Operator-built DevSecOps foundations for modern infrastructure.
 
 ---
 
-### 🌍 Our Mission
-To simplify cloud compliance and empower engineers through automation — turning governance into a seamless, code-driven process.
+### 🧭 What We Do
+StudioAsCode builds secure, automated environments for cloud-native organizations.  
+We focus on **compliance readiness**, **audit acceleration**, and **AI-driven security operations** — translating governance into code.
+
+Our core domains:
+
+- **AWS Security Architecture** — Infrastructure hardening, compliance baselines, and policy automation  
+- **DevSecOps Enablement** — Operator-first tooling for secure cloud teams  
+- **AI-Augmented Engineering** — Leveraging LLMs for documentation, validation, and continuous security workflows  
 
 ---
 
-### 🧭 Learn More
+### 🔐 Our Mission
+To simplify cloud compliance and empower engineers through automation —  
+turning governance into a seamless, code-defined process.
+
+---
+
+### 🧩 Latest Publication
+[**Operating a Company as Code**](https://studioascode.github.io/studioascode-blog/posts/operating-a-company-as-code.html)  
+The idea of building StudioAsCode as a security-first org applying infrastructure-as-code principles to the company itself.
+
+---
+
+### 🌐 Learn More
 Visit [studioascode.com](https://studioascode.com)
